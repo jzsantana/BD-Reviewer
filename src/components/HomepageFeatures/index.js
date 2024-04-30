@@ -17,12 +17,12 @@ const FeatureList = [
     Svg: require('@site/static/img/thumb-up-down.svg').default,
     description: (
       <>
-        Uma maneira eficiente e automatizada de enviar feedbacks. 
+        Uma maneira prática e eficiente de criar e enviar feedbacks. 
       </>
     ),
   },
   {
-    title: 'Consolidação',
+    title: 'Dados centralizados',
     Svg: require('@site/static/img/document.svg').default,
     description: (
       <>
