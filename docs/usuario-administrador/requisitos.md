@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Segunda sprint
+# Requisitos
 Durante a segunda sprint do nosso projeto, continuamos avançando no desenvolvimento do nosso sistema.
 
 ## Desenvolvimento Front-end:

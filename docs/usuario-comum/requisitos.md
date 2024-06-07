@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Primeira sprint
+# Requisitos
 
 Durante a primeira sprint do nosso projeto de desenvolvimento de um aplicativo voltado para simplificar e aprimorar o processo de coleta e gestão de feedbacks, nos concentramos para estabelecer uma base sólida e eficiente para nosso produto final, para então começarmos o desenvolvimento do projeto.
 
