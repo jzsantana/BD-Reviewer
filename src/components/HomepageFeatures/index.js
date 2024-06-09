@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Intuitivo',
-    Svg: require('@site/static/img/people.svg').default,
+    Svg: require('@site/static/img/intuitive.svg').default,
     description: (
       <>
         Uma ferramenta intuitiva para facilitar a comunicação entre gestores e colaboradores
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Prático',
-    Svg: require('@site/static/img/thumb-up-down.svg').default,
+    Svg: require('@site/static/img/practical.svg').default,
     description: (
       <>
         Uma maneira prática e eficiente de criar e enviar feedbacks. 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Dados centralizados',
-    Svg: require('@site/static/img/document.svg').default,
+    Svg: require('@site/static/img/data.svg').default,
     description: (
       <>
         Uma maneira de centralizar todos os dados de feedbacks em um único local, simplificando o acesso e garantindo a consistência das informações.
