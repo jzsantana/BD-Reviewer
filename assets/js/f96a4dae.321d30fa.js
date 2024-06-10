@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbd_reviewer=self.webpackChunkbd_reviewer||[]).push([[3173],{3193:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/BD-Reviewer/blog/tags/docusaurus","allTagsPath":"/BD-Reviewer/blog/tags","count":4,"unlisted":false}')}}]);

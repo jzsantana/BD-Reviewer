@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbd_reviewer=self.webpackChunkbd_reviewer||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/BD-Reviewer/blog","blogTitle":"Blog"}')}}]);

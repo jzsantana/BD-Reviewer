@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbd_reviewer=self.webpackChunkbd_reviewer||[]).push([[4742],{8477:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/BD-Reviewer/blog/tags/hola","allTagsPath":"/BD-Reviewer/blog/tags","count":1,"unlisted":false}')}}]);
