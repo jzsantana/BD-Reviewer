@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introdução
+# Reviewer
 
 ### 📃 Conheça um pouco do nosso projeto
 
